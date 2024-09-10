@@ -1,6 +1,11 @@
 # ams
 repository for the group "WeLoveCode"
 
+The group members are:
 
-#! /usr/bin/env python
-print("Welcome to this world.")
+Charlotte Schmitt
+Bianca Zordan
+Rosanna Meijer
+Jaap Wittenberg
+Antoine Lenweiter
+
