@@ -11,6 +11,7 @@
   From May 2004 to December 2009, over 4000 civilians were killed in Afghanistan. The plot above shows the difference between the number of deaths for civilians and the occupying NATO forces.
 
 <img src="images/plots/civlians and afghan forces casualties combined line plot.png" alt="Casualties Plot" style="max-width: 80%; height: auto;">
+ 
  ### Casualties Data Analysis
   From May 2004 to December 2009, over 4000 civilians were killed in Afghanistan. The plot above shows the difference between the number of deaths for civilians and the occupying NATO forces in a line plot.
 </div>
