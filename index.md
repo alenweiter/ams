@@ -9,6 +9,8 @@
 - Antoine Lenweiter
 
 ---
+WEEK 2
+---
 
 ### Civilians and NATO Casualties Line Plot, per month
 
@@ -17,8 +19,8 @@ The plot below shows the difference between the number of deaths per month for c
 
 ![Casualties Plot](images/plots/casualties_plot3.png)
 
-
 ---
+
 ### Total Casualties Bar Graph
 
 The graph below shows the casualties of civilians and Afghan Forces combined, per month
@@ -27,24 +29,27 @@ The graph below shows the casualties of civilians and Afghan Forces combined, pe
 
 The data used for the figures above is part of Wikileaks' Afghanistan War Logs.
 
----
-### Total Casualties Bar Graph
 
-This scatterplot...
+
+---
+WEEK 3
+---
+
+
+
+### Book Ratings Scatterplot
 
 ![Rating](images/plots/rating_reviewcount_scatterplot.png)
 
 ---
-### Total Casualties Bar Graph
 
-This histogram...
+### Book Ratings Bar Graph
 
 ![Rating](images/plots/rating_histogram.png)
 
 ---
-### Total Casualties Bar Graph
 
-These boxplots...
+### Book Rating Boxplot
 
 ![Rating](images/plots/rating_boxplot.png)
 
