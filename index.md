@@ -63,6 +63,11 @@ WEEK 4
 
 ![Rating](images/plots/moran_plot.png)
 
+---
+
+### Woningwaarde 2002
+
+![Rating](images/plots/woningwaarde_2002.png)
 
 
-</div>
+
