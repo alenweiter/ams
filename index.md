@@ -60,7 +60,7 @@ WEEK 3
 
 ### Moran Plot
 
-![Rating](images/plots/moran_plot.png)
+![Rating](ams/images/plots/moran_plot.png)
 
 <!-- Center the content -->
 <div style="text-align: center;">
