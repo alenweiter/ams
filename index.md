@@ -56,6 +56,8 @@ WEEK 3
 <!-- Center the content -->
 <div style="text-align: center;">
 
+---
+
 ### Moran Plot
 
 ![Rating](images/plots/moran_plot.png)
