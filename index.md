@@ -53,14 +53,12 @@ WEEK 3
 
 ![Rating](images/plots/rating_boxplot.png)
 
-<!-- Center the content -->
-<div style="text-align: center;">
-
 ---
 
 ### Moran Plot
 
-![Rating](ams/images/plots/moran_plot.png)
+![Rating](images/plots/moran_plot.png)
+
 
 <!-- Center the content -->
 <div style="text-align: center;">
