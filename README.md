@@ -1,7 +1,9 @@
-# AMS
-Repository for the group "WeLoveCode" - Group 10
+#
+Welcome to group 10's repository
 
-The group members are:
+The final assignement can be found [here](hackathon)
+
+Group members are:
 
 Charlotte Schmitt, 
 Bianca Zordan, 
@@ -9,4 +11,4 @@ Rosanna Meijer,
 Jaap Wittenberg, 
 Antoine Lenweiter
 
-[here](hackathon)
+
