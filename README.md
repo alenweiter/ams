@@ -1,5 +1,5 @@
-# ams
-repository for the group "WeLoveCode"
+# AMS
+Repository for the group "WeLoveCode" - Group 10
 
 The group members are:
 
